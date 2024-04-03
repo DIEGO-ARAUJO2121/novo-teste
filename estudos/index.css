@@ -7,5 +7,10 @@ color: rgb(58, 236, 14);
 
 }
 ul {
-    color: blueviolet;
+    color: rgb(43, 226, 171);
+}strong {
+color: rgb(16, 243, 205)
+}
+em {
+    color: rgba(195, 255, 0, 0.678);
 }
